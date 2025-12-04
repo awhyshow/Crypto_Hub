@@ -44,14 +44,6 @@ CryptoInsight Hub measures this link between **adoption** and **market maturity*
 * Blockchain developers
 * Businesses evaluating crypto adoption or stablecoins
 
----
-
-## 📌 Insights You Can Uncover
-
-* How events (regulation, upgrades, hacks) affect prices
-* Which coins show real usage-based stability
-* How sentiment aligns with market movements
-* Volatility patterns across BTC, ETH, and altcoins
 
 ---
 
@@ -60,5 +52,3 @@ CryptoInsight Hub measures this link between **adoption** and **market maturity*
 CryptoInsight Hub unifies market data, sentiment, and on-chain activity into one platform, delivering clear and actionable insights for trading, research, risk management, and adoption decisions.
 
 ---
-
-If you want, I can make it **even shorter**, add **badges**, or generate a **project structure section**.
