@@ -1,4 +1,4 @@
-Here is a **shorter, cleaner, and more concise `README.md`** version:
+
 
 ---
 
